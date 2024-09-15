@@ -33,11 +33,11 @@
 
 ## 📸 Screenshots:
 
-#### Home Page :
+#### **Home Page:**
 
 ![Home_page](https://github.com/geekyom07/Home_Automation_Web/assets/150538081/f314b9c7-314b-4acb-9aaf-178237b3ec57)
 
-#### Device Control Interface:
+#### **Device Control Interface:**
 
 ![Device_control](https://github.com/geekyom07/Home_Automation_Web/assets/150538081/155c2d58-d358-43ca-a503-0bcdce6c1ca1)
 
